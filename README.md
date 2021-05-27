@@ -142,5 +142,6 @@ Trip data can be accessed at the following locations
 | New York City    | https://www.citibikenyc.com/system-data                                                |
 | San Francisco    | https://www.lyft.com/bikes/bay-wheels/system-data                                      |
 | Taipei           | https://drive.google.com/drive/folders/1QsROgp8AcER6qkTJDxpuV8Mt1Dy6lGQO               |
+|                  | https://tcgbusfs.blob.core.windows.net/blobyoubike/YouBikeTP.json                      |
 | Washington, D.C. | https://www.capitalbikeshare.com/system-data                                           |
 
