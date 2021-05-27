@@ -337,9 +337,14 @@ def get_data(city, year, month, blacklist=None):
             df['start_stat_long'] = ''
             df['end_stat_lat'] = ''
             df['end_stat_long'] = ''
-
-            with open('./python_variables/Chicago_stations.pickle', 'rb') as file:
-                stat_df = pickle.load(file)
+            
+            try:
+                with open('./python_variables/Chicago_stations.pickle', 'rb') as file:
+                    stat_df = pickle.load(file)
+            except FileNotFoundError as exc:
+                compile_chicago_stations()
+                with open('./python_variables/Chicago_stations.pickle', 'rb') as file:
+                    stat_df = pickle.load(file)
 
             for _, stat in stat_df.iterrows():
                 start_matches = np.where(df['start_stat_name'] == stat['name'])
