@@ -113,6 +113,9 @@ The data should be organised as follows. Please create directories `data`, `pyth
 `distance.py`
 	- Calculate the distance between stations using the Haversine formula.
 
+`mexico_investigation.py`
+	- Runs selected investigations for Mexico City after removing the electric docking stations.
+
 `hourly.py`
 	- Calculate and plot filtered trips per hour.
 
