@@ -131,17 +131,17 @@ The data should be organised as follows. Please create directories `data`, `pyth
 # Data Sources
 Trip data can be accessed at the following locations
 
-| City             | Link                                                                                   |
-|------------------|----------------------------------------------------------------------------------------|
-| Chicago          | https://www.divvybikes.com/system-data                                                 |
-|                  | https://data.cityofchicago.org/Transportation/Divvy-Bicycle-Stations-All-Map/bk89-9dk7 |
-| London           | https://cycling.data.tfl.gov.uk/                                                       |
-|                  | https://www.kaggle.com/edenau/london-bike-sharing-system-data?select=stations.csv      |
-| Madrid           | https://opendata.emtmadrid.es/Datos-estaticos/Datos-generales-(1)                      |
-| Mexico City      | https://www.ecobici.cdmx.gob.mx/en/informacion-del-servicio/open-data                  |
-| New York City    | https://www.citibikenyc.com/system-data                                                |
-| San Francisco    | https://www.lyft.com/bikes/bay-wheels/system-data                                      |
-| Taipei           | https://drive.google.com/drive/folders/1QsROgp8AcER6qkTJDxpuV8Mt1Dy6lGQO               |
-|                  | https://tcgbusfs.blob.core.windows.net/blobyoubike/YouBikeTP.json                      |
-| Washington, D.C. | https://www.capitalbikeshare.com/system-data                                           |
-
+| City             | Link                                                                                                         |
+|------------------|--------------------------------------------------------------------------------------------------------------|
+| Chicago          | https://www.divvybikes.com/system-data                                                                       |
+|                  | https://data.cityofchicago.org/Transportation/Divvy-Bicycle-Stations-All-Map/bk89-9dk7                       |
+| London           | https://cycling.data.tfl.gov.uk/                                                                             |
+|                  | https://www.kaggle.com/edenau/london-bike-sharing-system-data?select=stations.csv                            |
+| Madrid           | https://opendata.emtmadrid.es/Datos-estaticos/Datos-generales-(1)                                            |
+| Mexico City      | https://www.ecobici.cdmx.gob.mx/en/informacion-del-servicio/open-data                                        |
+| New York City    | https://www.citibikenyc.com/system-data                                                                      |
+| San Francisco    | https://www.lyft.com/bikes/bay-wheels/system-data                                                            |
+| Taipei           | https://drive.google.com/drive/folders/1QsROgp8AcER6qkTJDxpuV8Mt1Dy6lGQO                                     |
+|                  | https://tcgbusfs.blob.core.windows.net/blobyoubike/YouBikeTP.json                                            |
+| Washington, D.C. | https://www.capitalbikeshare.com/system-data                                                                 |
+| Washington, D.C. | https://opendata.dc.gov/datasets/capital-bike-share-locations/explore?location=38.347500%2C-79.223500%2C8.88 |
