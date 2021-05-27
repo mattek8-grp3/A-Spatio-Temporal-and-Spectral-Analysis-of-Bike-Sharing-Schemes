@@ -144,4 +144,4 @@ Trip data can be accessed at the following locations
 | Taipei           | https://drive.google.com/drive/folders/1QsROgp8AcER6qkTJDxpuV8Mt1Dy6lGQO                                     |
 |                  | https://tcgbusfs.blob.core.windows.net/blobyoubike/YouBikeTP.json                                            |
 | Washington, D.C. | https://www.capitalbikeshare.com/system-data                                                                 |
-| Washington, D.C. | https://opendata.dc.gov/datasets/capital-bike-share-locations/explore?location=38.347500%2C-79.223500%2C8.88 |
+|                  | https://opendata.dc.gov/datasets/capital-bike-share-locations/explore?location=38.347500%2C-79.223500%2C8.88 |
