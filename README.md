@@ -49,6 +49,7 @@ The data should be organised as follows. Please create directories `data`, `pyth
 ./data
 ├── (Put data .csv/.json files here)
 ├── Divvy_Trips_2019_Q3.csv
+├── chicago_stations.csv
 │
 ├── 177JourneyDataExtract28Aug2019-03Sep2019.csv
 ├── 178JourneyDataExtract04Sep2019-10Sep2019.csv
@@ -112,6 +113,9 @@ The data should be organised as follows. Please create directories `data`, `pyth
 `distance.py`
 	- Calculate the distance between stations using the Haversine formula.
 
+`mexico_investigation.py`
+	- Runs selected investigations for Mexico City after removing the electric docking stations.
+
 `hourly.py`
 	- Calculate and plot filtered trips per hour.
 
@@ -132,6 +136,7 @@ Trip data can be accessed at the following locations
 | Chicago          | https://www.divvybikes.com/system-data                                                 |
 |                  | https://data.cityofchicago.org/Transportation/Divvy-Bicycle-Stations-All-Map/bk89-9dk7 |
 | London           | https://cycling.data.tfl.gov.uk/                                                       |
+|                  | https://www.kaggle.com/edenau/london-bike-sharing-system-data?select=stations.csv      |
 | Madrid           | https://opendata.emtmadrid.es/Datos-estaticos/Datos-generales-(1)                      |
 | Mexico City      | https://www.ecobici.cdmx.gob.mx/en/informacion-del-servicio/open-data                  |
 | New York City    | https://www.citibikenyc.com/system-data                                                |

@@ -4,4 +4,4 @@ data/*
 figures/*
 .spyproject/
 __pycache__/
-python_variables/big_data/
+python_variables/
