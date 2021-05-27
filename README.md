@@ -133,6 +133,7 @@ Trip data can be accessed at the following locations
 | Chicago          | https://www.divvybikes.com/system-data                                                 |
 |                  | https://data.cityofchicago.org/Transportation/Divvy-Bicycle-Stations-All-Map/bk89-9dk7 |
 | London           | https://cycling.data.tfl.gov.uk/                                                       |
+|                  | https://www.kaggle.com/edenau/london-bike-sharing-system-data?select=stations.csv      |
 | Madrid           | https://opendata.emtmadrid.es/Datos-estaticos/Datos-generales-(1)                      |
 | Mexico City      | https://www.ecobici.cdmx.gob.mx/en/informacion-del-servicio/open-data                  |
 | New York City    | https://www.citibikenyc.com/system-data                                                |
