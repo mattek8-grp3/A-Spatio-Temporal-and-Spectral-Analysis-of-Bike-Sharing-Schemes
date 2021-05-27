@@ -49,6 +49,7 @@ The data should be organised as follows. Please create directories `data`, `pyth
 ./data
 ├── (Put data .csv/.json files here)
 ├── Divvy_Trips_2019_Q3.csv
+├── chicago_stations.csv
 │
 ├── 177JourneyDataExtract28Aug2019-03Sep2019.csv
 ├── 178JourneyDataExtract04Sep2019-10Sep2019.csv
