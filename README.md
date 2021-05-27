@@ -115,7 +115,7 @@ The data should be organised as follows. Please create directories `data`, `pyth
 `hourly.py`
 	- Calculate and plot filtered trips per hour.
 
-`hypotese_test.py`
+`hypothsis_test.py`
 	- Calculates the significanse of precipitation by making a t-test.
 
 `spatial_trip_analysis.py`
