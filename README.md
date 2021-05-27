@@ -70,7 +70,7 @@ The data should be organised as follows. Please create directories `data`, `pyth
 ├── 201909-baywheels-tripdata.csv
 │
 ├── 201909-taipei.csv
-├── stations_taipei.csv
+├── YouBikeTP.json
 │
 ├── 201909-capitalbikeshare-tripdata.csv
 └── Capital_Bike_Share_Locations.csv
