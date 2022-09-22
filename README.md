@@ -6,6 +6,7 @@ A. A. Andersen, D. B. van Diepen, M. S. Kaaber, and N. A. Weinreich. "A Spatio-T
 
 Internally published in the project catalogue at Aalborg University.
 
+![graph-background](https://user-images.githubusercontent.com/19616450/191852800-d0433ebb-8bf3-43fc-8db3-02242f6bbeed.png)
 
 ## Dependencies
 This project is created with `Python 3.9`
